@@ -1,0 +1,51 @@
+﻿[
+        {
+                __type: "ConsoleApplication1.Item,
+                 ConsoleApplication1",
+                ItemId: 0,
+                Title: "KLOCKA (NY) PRIMO BY INEX METROPOL REK PRIS 799 SEK",
+                Body: "Tillverkare:            Inex of Scandinavia 
+Serie:                     Primo
+Modell:                  Dam klocka
+Urverk:                  Miyota 
+Boett:                    Tryck
+Urtavla:                 Svart
+Glas:                     Mineral  
+Armband:             Rostfritt stål
+Spänne:                Rostfritt stål
+Mått:                     Bredd ca 2.5 cm
+Vattenskydd:       30 meter vattentät
+Typ:                      Modeklocka 
+Garanti:                Kassakvitto gäller som 6 månaders garanti
+
+Passar handleder upp till 20 cm
+
+Samfrakt gäller vid fler köp!
+
+Ta gärna en titt på våra andra auktioner!"
+        },
+        {
+                __type: "ConsoleApplication1.Item,
+                 ConsoleApplication1",
+                ItemId: 1,
+                Title: "Fleecetröja/Windstopper cerise från POP storlek 98",
+                Body: "Windstopper/Fleecetröja med dragkedja, cerise, märke Porlarn O. Pyret, storlek 98
+Sömmar i form av grå reflexer. Svart nätfoder som "andas".
+Mycket fint skick, inga fläckar eller hål. Kantbandet på vänster sida är lagat med några stygn längst upp."
+        },
+        {
+                __type: "ConsoleApplication1.Item,
+                 ConsoleApplication1",
+                ItemId: 2,
+                Title: "Rapala Ike's Custom Ink DT-4 / Special Färg",
+                Body: "Ni bjuder på 1 st Ike's Rapala som är helt ny i ask/förpackning... 
+ 
+                Längd ca  5 cm + skeden  och väger ca 9 gram /  Floating  
+                      Färgen är = Smash  /  SMSH   ..  Går på 1,2 meters djup..
+ 
+ 
+Betalning sker till mitt Swedbank konto inom 3 dagar efter avslutad auktion.
+Obs! Vinnarmailet kommer automatiskt med Traderas mail.
+ Jag accepterar även avhämtning."
+        },
+]
