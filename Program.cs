@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Linq;
@@ -120,7 +121,7 @@ SELECT TOP {0} P.[ProductID]
             Console.WriteLine("Start indexing");
             var stopwatch = new Stopwatch();
             stopwatch.Start();
-            using (var conn = new SqlConnection("Server=10.211.55.5;Database=PG1;User Id=sa;Password=one2THREE;"))
+            using (var conn = new SqlConnection(ConfigurationManager.ConnectionStrings["DB"].ConnectionString))
             {
                 conn.Open();
                 var list = conn.Query<FSProduct>(string.Format(sql, top));
